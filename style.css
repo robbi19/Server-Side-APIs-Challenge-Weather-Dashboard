@@ -1,0 +1,26 @@
+/* https://cssgradient.io/ 
+  https://developer.mozilla.org/en-US/docs/Web/CSS/outline*/
+
+  #weatherDashboard {
+    text-align: center;
+    color: black;
+    background: rgb(14, 17, 94);
+    background: radial-gradient(circle, rgb(26, 21, 152) 0%, rgba(148,187,233,1) 100%);
+    line-height: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px;
+    outline: 5px solid;
+  }
+
+  #citySearch{
+    font-style:normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .control {
+    box-sizing: border-box;
+    clear: both;
+    font-size: 1rem;
+    position: relative;
+    text-align: inherit;
+  }
