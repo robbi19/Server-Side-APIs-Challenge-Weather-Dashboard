@@ -21,6 +21,12 @@
 
 Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that will provide basic setup and usage instructions. Use `localStorage` to store any persistent data.
 
+'Website the was helpful'
+ https://stackoverflow.com/questions/9713452/jquery-on-method-calling-a-function-inmediatly//
+
+'API & key'
+ https://openweathermap.org/forecast5, How to-https://www.youtube.com/watch?v=nGVoHEZojiQ/
+
 'Repo-'
 
 'Deploy-
