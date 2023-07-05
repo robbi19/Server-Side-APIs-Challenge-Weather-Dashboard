@@ -1,3 +1,4 @@
+<img width="959" alt="Screenshot 2023-07-04 200553" src="https://github.com/robbi19/Server-Side-APIs-Challenge-Weather-Dashboard/assets/128949831/93235d4f-4444-4af6-921c-cdfd71f8e684">
 # Server-Side-APIs-Challenge-Weather-Dashboard
 
 'User Story'
@@ -30,3 +31,7 @@ Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather da
 'Repo'- https://github.com/robbi19/Server-Side-APIs-Challenge-Weather-Dashboard
 
 'Deploy'-https://robbi19.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/
+
+'Video"-https://drive.google.com/file/d/1fRm3AmJqxDPNlM33FgPx0_64eEhNiPF9/view
+
+<img width="959" alt="Screenshot 2023-07-04 200553" src="https://github.com/robbi19/Server-Side-APIs-Challenge-Weather-Dashboard/assets/128949831/93235d4f-4444-4af6-921c-cdfd71f8e684">
