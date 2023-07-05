@@ -27,6 +27,6 @@ Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather da
 'API & key'
  https://openweathermap.org/forecast5, How to-https://www.youtube.com/watch?v=nGVoHEZojiQ/
 
-'Repo-'
+'Repo'- https://github.com/robbi19/Server-Side-APIs-Challenge-Weather-Dashboard
 
-'Deploy-
+'Deploy'-https://robbi19.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/
